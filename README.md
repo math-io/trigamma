@@ -27,13 +27,13 @@ Evaluates the [trigamma function][trigamma-function].
 
 ``` javascript
 var v = trigamma( -2.5 );
-// returns ~8.776
+// returns ~9.539
 
 v = trigamma( 1 );
 // returns ~1.645
 
 v = trigamma( 10 );
-// returns 0.2
+// returns ~0.105
 ```
 
 If `x` is `0` or a negative `integer`, the `function` returns `NaN`.
