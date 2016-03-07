@@ -6,6 +6,10 @@ trigamma
 
 The [trigamma function][trigamma-function] is defined as the derivative of the [digamma function][digamma-function]:
 
+<div class="equation" align="center" data-raw-text="\psi_1(x) = \frac{d}{dx} \psi(x) = \sum_{n = 0}^{\infty}\frac{1}{(x + n)^2}" data-equation="">
+	<img src="https://cdn.rawgit.com/math-io/trigamma/676057020d2c20f818f6e6376ee47d8d8b1bb7a7/docs/img/eqn.svg" alt="Trigamma function">
+	<br>
+</div>
 
 ## Installation
 
